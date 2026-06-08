@@ -1,0 +1,6 @@
+{
+  "name": "LegacyBridge AI",
+  "description": "An AI-powered modernization engine that analyzes legacy VB6 and Classic ASP code to generate risk-assessed modern architectures and codebases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
